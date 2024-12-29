@@ -1,6 +1,11 @@
 # Voice-Controlled Chess Bot
 
-[Demo](https://github.com/ivan-cody/chess-bot-blindless/raw/main/Demo_of_app.mov)
+[Demo](https://github.com/ivan-cody/chess-bot-blindless/raw/main/Demo_of_app.mp4)
+
+<video width="600" controls>
+  <source src="https://github.com/ivan-cody/chess-bot-blindless/blob/main/Demo_of_app.mp4" type="video/mp4">
+  Ваш браузер не поддерживает воспроизведение видео.
+</video>
 
 ## Overview
 A voice-controlled chess application that allows you to play chess against Stockfish engine using voice commands in Russian. The app uses OpenAI's GPT-4 Audio model (Whisper + 3.5-turbo) for speech recognition and move interpretation from regular speach.
