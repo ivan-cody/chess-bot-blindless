@@ -1,9 +1,9 @@
 # Voice-Controlled Chess Bot
 
-[Demo](https://github.com/ivan-cody/chess-bot-blindless/raw/main/Demo_of_app.mp4)
+[Demo](https://drive.google.com/file/d/1xiVG4YhSdsxTMJlBoSfEgm77Xe6v3F4n/view?usp=sharing)
 
 <video width="600" controls>
-  <source src="https://github.com/ivan-cody/chess-bot-blindless/blob/main/Demo_of_app.mp4" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1xiVG4YhSdsxTMJlBoSfEgm77Xe6v3F4n/view?usp=sharing" type="video/mp4">
   Ваш браузер не поддерживает воспроизведение видео.
 </video>
 
