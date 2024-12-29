@@ -1,0 +1,6 @@
+Game: 2024-12-29 19:40:04
+I play White, Computer plays Black
+
+1. e2e3 - e7e5
+2. b1c3 - d7d5
+3. d1h5 - b8c6
