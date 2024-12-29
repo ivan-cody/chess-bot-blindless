@@ -1,11 +1,6 @@
 # Voice-Controlled Chess Bot
 
-[Demo](https://drive.google.com/file/d/1xiVG4YhSdsxTMJlBoSfEgm77Xe6v3F4n/view?usp=sharing)
-
-<video width="600" controls>
-  <source src="https://drive.google.com/file/d/1xiVG4YhSdsxTMJlBoSfEgm77Xe6v3F4n/view?usp=sharing" type="video/mp4">
-  Ваш браузер не поддерживает воспроизведение видео.
-</video>
+[Demo of app](https://drive.google.com/file/d/1f1dtphiUHtHdE_ELEyA3FiUV7syuVwl3/view?usp=sharing)
 
 ## Overview
 A voice-controlled chess application that allows you to play chess against Stockfish engine using voice commands in Russian. The app uses OpenAI's GPT-4 Audio model (Whisper + 3.5-turbo) for speech recognition and move interpretation from regular speach.
